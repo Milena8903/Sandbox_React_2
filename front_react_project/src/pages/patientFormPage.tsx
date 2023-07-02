@@ -7,6 +7,10 @@ export function PatientForm (){
         try{
             const nuevoPaciente = {
                 cedula:
+                nombre:
+                apellido:
+                fecha:
+                telefono:
             }
         }
     }
