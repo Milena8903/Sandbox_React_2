@@ -1,11 +1,11 @@
 import './App.css'
-import { PatientForm } from './pages/patientFormPage'
+import TableUsers from './pages/tableGet'
 
 function App() {
   
 
   return (
-    <PatientForm/>
+    <TableUsers/>
   )
 }
 
