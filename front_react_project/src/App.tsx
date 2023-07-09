@@ -1,11 +1,11 @@
 import './App.css'
-import TableUsers from './pages/tableGet'
+import TablePacientes from './pages/pacientesListaPage'
 
 function App() {
   
 
   return (
-    <TableUsers/>
+    <TablePacientes/>
   )
 }
 
